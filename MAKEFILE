@@ -1,6 +1,6 @@
 ## Based on https://duarteocarmo.com/blog/opinionated-python-boilerplate
 
-.PHONY: install clean lint format 
+.PHONY: install clean prep build 
 
 ## Install for production
 install:
